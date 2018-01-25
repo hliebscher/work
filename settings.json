@@ -464,7 +464,7 @@
                 "moduleName": "Archive Control",
                 "connectionID": 0,
                 "moduleID": "{43192F0B-135B-4CE7-A0A7-1475603F3060}",
-                "lastChange": 1516891166,
+                "lastChange": 1516894766,
                 "configuration": {
                     "Aggregation": "{}",
                     "Statistics": "{}"
@@ -583,7 +583,7 @@
             "parentID": 28334,
             "data": {
                 "isBroken": false,
-                "lastExecute": 1516891205,
+                "lastExecute": 1516894805,
                 "type": 0,
                 "file": "23819.ips.php"
             }
@@ -3257,7 +3257,7 @@
                 "limit": 0,
                 "script": "",
                 "conditions": [],
-                "lastRun": 1516891200,
+                "lastRun": 1516894800,
                 "cyclicDateType": 0,
                 "cyclicDateValue": 0,
                 "cyclicDateDay": 0,
@@ -5436,6 +5436,24 @@
             "info": "",
             "icon": "",
             "parentID": 55580
+        },
+        "ID58639": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "testscript",
+            "info": "",
+            "icon": "",
+            "parentID": 12734,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 1516893247,
+                "type": 0,
+                "file": "58639.ips.php"
+            }
         }
     },
     "profiles": {
