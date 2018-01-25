@@ -145,7 +145,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "~UnixTimestamp",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": 1516950794,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -167,7 +167,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "~UnixTimestamp",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": 1516895076,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -189,7 +189,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "~UnixTimestamp",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": 1516948429,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -211,7 +211,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "~UnixTimestamp",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": 1516897451,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -233,7 +233,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "~UnixTimestamp",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": 1516945837,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -255,7 +255,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "~UnixTimestamp",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": 1516900050,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -277,7 +277,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "~UnixTimestamp",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": 1516943344,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -299,7 +299,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "~UnixTimestamp",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": 1516902546,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -321,7 +321,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": true,
                 "customProfile": "",
                 "lastChange": 1516888409,
@@ -362,7 +362,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": false,
                 "customProfile": "",
                 "lastChange": 0,
@@ -384,7 +384,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "",
-                "lastUpdate": 1516888409,
+                "lastUpdate": 1516890026,
                 "value": false,
                 "customProfile": "",
                 "lastChange": 0,
@@ -464,7 +464,7 @@
                 "moduleName": "Archive Control",
                 "connectionID": 0,
                 "moduleID": "{43192F0B-135B-4CE7-A0A7-1475603F3060}",
-                "lastChange": 1516889550,
+                "lastChange": 1516891166,
                 "configuration": {
                     "Aggregation": "{}",
                     "Statistics": "{}"
@@ -487,11 +487,5080 @@
                 "moduleName": "WebFront Configurator",
                 "connectionID": 0,
                 "moduleID": "{3565B1F2-8F7B-4311-A4B6-1BF1D868F39E}",
-                "lastChange": 0
+                "lastChange": 1516891135,
+                "configuration": {
+                    "Skin": "",
+                    "Editable": true,
+                    "Nested": false,
+                    "Password": "",
+                    "LANPasswordNeeded": true,
+                    "IPAutoStart": "[]",
+                    "Items": "[{\"ClassName\":\"TabPane\",\"Configuration\":\"{\\\"subTitle\\\":\\\"IP-Symcon\\\", \\\"subIcon\\\":\\\"IPS\\\"}\",\"ID\":\"roottp\",\"ParentID\":\"\",\"Position\":0,\"Visible\":true},{\"ClassName\":\"Category\",\"Configuration\":\"\",\"ID\":\"root\",\"ParentID\":\"roottp\",\"Position\":0,\"Visible\":true},{\"ClassName\":\"DWD\",\"Configuration\":\"\",\"ID\":\"dwd\",\"ParentID\":\"roottp\",\"Position\":1,\"Visible\":true},{\"ClassName\":\"ClockWidget\",\"Configuration\":\"\",\"ID\":\"clock\",\"ParentID\":\"roottp\",\"Position\":0,\"Visible\":true},{\"ID\":\"SystemTP\",\"ClassName\":\"TabPane\",\"Configuration\":\"{\\\"title\\\":\\\"\\\",\\\"name\\\":\\\"SystemTP\\\",\\\"icon\\\":\\\"Gear\\\"}\",\"Position\":90,\"ParentID\":\"roottp\",\"Visible\":true},{\"ID\":\"SystemTPLogWindow1527\",\"ClassName\":\"Category\",\"Configuration\":\"{\\\"title\\\":\\\"Logging\\\",\\\"name\\\":\\\"SystemTPLogWindow1527\\\",\\\"icon\\\":\\\"Window\\\",\\\"baseID\\\":17512,\\\"enumBarColumns\\\":9,\\\"selectorBarSteps\\\":5,\\\"isBarBottomVisible\\\":false,\\\"enablePercentageSlider\\\":true}\",\"Position\":10,\"ParentID\":\"SystemTP\",\"Visible\":true},{\"ID\":\"SystemTPLogSettings1527\",\"ClassName\":\"Category\",\"Configuration\":\"{\\\"title\\\":\\\"Log Settings\\\",\\\"name\\\":\\\"SystemTPLogSettings1527\\\",\\\"icon\\\":\\\"Gear\\\",\\\"baseID\\\":14150,\\\"enumBarColumns\\\":9,\\\"selectorBarSteps\\\":5,\\\"isBarBottomVisible\\\":true,\\\"enablePercentageSlider\\\":true}\",\"Position\":20,\"ParentID\":\"SystemTP\",\"Visible\":true},{\"ID\":\"IPSLogger_Widget\",\"ClassName\":\"InfoWidget\",\"Configuration\":\"{\\\"variableID\\\":11600,\\\"scriptID\\\":16914,\\\"name\\\":\\\"IPSLogger_Widget\\\"}\",\"Position\":90,\"ParentID\":\"roottp\",\"Visible\":true},{\"ID\":\"SystemTPLibrary\",\"ClassName\":\"Category\",\"Configuration\":\"{\\\"title\\\":\\\"IPSLibrary\\\",\\\"name\\\":\\\"SystemTPLibrary\\\",\\\"icon\\\":\\\"ErlenmeyerFlask\\\",\\\"baseID\\\":18131,\\\"enumBarColumns\\\":9,\\\"selectorBarSteps\\\":5,\\\"isBarBottomVisible\\\":false,\\\"enablePercentageSlider\\\":true}\",\"Position\":70,\"ParentID\":\"SystemTP\",\"Visible\":true}]",
+                    "GraphHighDensity": false,
+                    "GraphShowExtrema": false,
+                    "GraphDynamicScaling": false,
+                    "GraphShowLegend": false,
+                    "GraphContinuousSpan": false,
+                    "GraphTimeSpan": 1,
+                    "MobileID": 0,
+                    "RetroID": -1,
+                    "RetroRefresh": 30,
+                    "RetroMobileID": -1,
+                    "RetroMobileRefresh": 30
+                }
             }
+        },
+        "ID12734": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Haussteuerung",
+            "info": "",
+            "icon": "",
+            "parentID": 0
+        },
+        "ID11542": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Heizung",
+            "info": "",
+            "icon": "",
+            "parentID": 0
+        },
+        "ID17697": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Solarthermie",
+            "info": "",
+            "icon": "",
+            "parentID": 0
+        },
+        "ID57718": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Solarstrom",
+            "info": "",
+            "icon": "",
+            "parentID": 0
+        },
+        "ID28334": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Scripte",
+            "info": "",
+            "icon": "",
+            "parentID": 0
+        },
+        "ID23819": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "owfs_init",
+            "info": "",
+            "icon": "",
+            "parentID": 28334,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 1516891205,
+                "type": 0,
+                "file": "23819.ips.php"
+            }
+        },
+        "ID30692": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": true,
+            "disabled": false,
+            "type": 0,
+            "name": "install Module",
+            "info": "",
+            "icon": "",
+            "parentID": 28334
+        },
+        "ID42767": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "install Module",
+            "info": "",
+            "icon": "",
+            "parentID": 28334,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 1516890506,
+                "type": 0,
+                "file": "42767.ips.php"
+            }
+        },
+        "ID44539": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "Program",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Program",
+            "info": "",
+            "icon": "",
+            "parentID": 0
+        },
+        "ID45538": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLibrary",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSLibrary",
+            "info": "",
+            "icon": "",
+            "parentID": 44539
+        },
+        "ID20565": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "install",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "install",
+            "info": "",
+            "icon": "",
+            "parentID": 45538
+        },
+        "ID35646": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "InitializationFiles",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "InitializationFiles",
+            "info": "",
+            "icon": "",
+            "parentID": 20565
+        },
+        "ID23214": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerini",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleManager.ini",
+            "info": "",
+            "icon": "",
+            "parentID": 35646,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/install/InitializationFiles/IPSModuleManager.ini"
+            }
+        },
+        "ID35283": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLoggerini",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger.ini",
+            "info": "",
+            "icon": "",
+            "parentID": 35646,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/install/InitializationFiles/IPSLogger.ini"
+            }
+        },
+        "ID35495": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "app",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "app",
+            "info": "",
+            "icon": "",
+            "parentID": 45538
+        },
+        "ID30814": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "core",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "core",
+            "info": "",
+            "icon": "",
+            "parentID": 35495
+        },
+        "ID47248": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSLogger",
+            "info": "",
+            "icon": "",
+            "parentID": 30814
+        },
+        "ID38490": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger.inc.php"
+            }
+        },
+        "ID50420": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_Constants",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_Constants",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_Constants.inc.php"
+            }
+        },
+        "ID10647": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_Output",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_Output",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_Output.inc.php"
+            }
+        },
+        "ID53414": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_PhpErrorHandler",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_PhpErrorHandler",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_PhpErrorHandler.inc.php"
+            }
+        },
+        "ID44467": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_ChangeSettings",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_ChangeSettings",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 1516891107,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_ChangeSettings.ips.php"
+            }
+        },
+        "ID28089": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_ClearHtmlOut",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_ClearHtmlOut",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 1516891116,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_ClearHtmlOut.ips.php"
+            }
+        },
+        "ID16914": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_ClearSingleOut",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_ClearSingleOut",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 1516891113,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_ClearSingleOut.ips.php"
+            }
+        },
+        "ID48764": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_PurgeLogFiles",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_PurgeLogFiles",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_PurgeLogFiles.ips.php"
+            }
+        },
+        "ID13706": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_SendMail",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_SendMail",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_SendMail.ips.php"
+            }
+        },
+        "ID25754": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "ProwlPHP",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "ProwlPHP",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/ProwlPHP.php"
+            }
+        },
+        "ID37649": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_IDs",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_IDs",
+            "info": "",
+            "icon": "",
+            "parentID": 47248,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSLogger/IPSLogger_IDs.inc.php"
+            }
+        },
+        "ID51639": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "config",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "config",
+            "info": "",
+            "icon": "",
+            "parentID": 45538
+        },
+        "ID52353": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "core",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "core",
+            "info": "",
+            "icon": "",
+            "parentID": 51639
+        },
+        "ID56139": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSLogger",
+            "info": "",
+            "icon": "",
+            "parentID": 52353
+        },
+        "ID46734": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger_Configuration",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSLogger_Configuration",
+            "info": "",
+            "icon": "",
+            "parentID": 56139,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/config/core/IPSLogger/IPSLogger_Configuration.inc.php"
+            }
+        },
+        "ID29485": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "data",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "data",
+            "info": "",
+            "icon": "",
+            "parentID": 45538
+        },
+        "ID48137": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "core",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "core",
+            "info": "",
+            "icon": "",
+            "parentID": 29485
+        },
+        "ID53857": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSLogger",
+            "info": "",
+            "icon": "",
+            "parentID": 48137
+        },
+        "ID33835": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "IPSLogger",
+            "info": "",
+            "icon": "",
+            "parentID": 53857,
+            "data": {
+                "moduleType": 3,
+                "moduleName": "Dummy Module",
+                "connectionID": 0,
+                "moduleID": "{485D0419-BE97-4548-AA9C-C083EB82E61E}",
+                "lastChange": 1516890460,
+                "configuration": {}
+            }
+        },
+        "ID42584": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 4,
+            "name": "IPSLogger_PurgeLogFilesTimer",
+            "info": "",
+            "icon": "",
+            "parentID": 48764,
+            "data": {
+                "type": 1,
+                "active": true,
+                "limit": 0,
+                "script": "",
+                "conditions": [],
+                "lastRun": 0,
+                "cyclicDateType": 2,
+                "cyclicDateValue": 1,
+                "cyclicDateDay": 0,
+                "cyclicDateDayValue": 0,
+                "cyclicDateFrom": {
+                    "day": 0,
+                    "month": 0,
+                    "year": 0
+                },
+                "cyclicDateTo": {
+                    "day": 0,
+                    "month": 0,
+                    "year": 0
+                },
+                "cyclicTimeType": 0,
+                "cyclicTimeValue": 0,
+                "cyclicTimeFrom": {
+                    "hour": 8,
+                    "minute": 0,
+                    "second": 0
+                },
+                "cyclicTimeTo": {
+                    "hour": 0,
+                    "minute": 0,
+                    "second": 0
+                }
+            }
+        },
+        "ID12534": {
+            "position": 100,
+            "readOnly": false,
+            "ident": "SingleOut_Enabled",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "SingleOut_Enabled",
+            "info": "",
+            "icon": "Power",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516891104,
+                "value": false,
+                "customProfile": "~Switch",
+                "lastChange": 1516891104,
+                "type": 0
+            }
+        },
+        "ID58185": {
+            "position": 110,
+            "readOnly": false,
+            "ident": "SingleOut_Level",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "SingleOut_Level",
+            "info": "",
+            "icon": "Intensity",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 1,
+                "customProfile": "IPSLogger_Level",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID11600": {
+            "position": 120,
+            "readOnly": false,
+            "ident": "SingleOut_Msg",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "SingleOut_Msg",
+            "info": "",
+            "icon": "Window",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516891113,
+                "value": "",
+                "customProfile": "~HTMLBox",
+                "lastChange": 1516891113,
+                "type": 3
+            }
+        },
+        "ID38970": {
+            "position": 200,
+            "readOnly": false,
+            "ident": "HtmlOut_Enabled",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "HtmlOut_Enabled",
+            "info": "",
+            "icon": "Power",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516891105,
+                "value": false,
+                "customProfile": "~Switch",
+                "lastChange": 1516891105,
+                "type": 0
+            }
+        },
+        "ID51295": {
+            "position": 210,
+            "readOnly": false,
+            "ident": "HtmlOut_Level",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "HtmlOut_Level",
+            "info": "",
+            "icon": "Intensity",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 9,
+                "customProfile": "IPSLogger_Level",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID43217": {
+            "position": 220,
+            "readOnly": false,
+            "ident": "HtmlOut_MsgCount",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "HtmlOut_MsgCount",
+            "info": "",
+            "icon": "Distance",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 20,
+                "customProfile": "IPSLogger_MsgCount",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID47500": {
+            "position": 230,
+            "readOnly": false,
+            "ident": "HtmlOut_MsgId",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "HtmlOut_MsgId",
+            "info": "",
+            "icon": "Repeat",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516890668,
+                "value": 15,
+                "customProfile": "IPSLogger_MsgId",
+                "lastChange": 1516890668,
+                "type": 1
+            }
+        },
+        "ID27422": {
+            "position": 240,
+            "readOnly": false,
+            "ident": "HtmlOut_MsgList",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "HtmlOut_MsgList",
+            "info": "",
+            "icon": "Window",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516891116,
+                "value": "",
+                "customProfile": "~HTMLBox",
+                "lastChange": 1516891116,
+                "type": 3
+            }
+        },
+        "ID43877": {
+            "position": 300,
+            "readOnly": false,
+            "ident": "IPSOut_Enabled",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "IPSOut_Enabled",
+            "info": "",
+            "icon": "Power",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516891106,
+                "value": false,
+                "customProfile": "~Switch",
+                "lastChange": 1516891106,
+                "type": 0
+            }
+        },
+        "ID39070": {
+            "position": 310,
+            "readOnly": false,
+            "ident": "IPSOut_Level",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "IPSOut_Level",
+            "info": "",
+            "icon": "Intensity",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 5,
+                "customProfile": "IPSLogger_Level",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID17731": {
+            "position": 400,
+            "readOnly": false,
+            "ident": "FileOut_Enabled",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "FileOut_Enabled",
+            "info": "",
+            "icon": "Power",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": false,
+                "customProfile": "~Switch",
+                "lastChange": 0,
+                "type": 0
+            }
+        },
+        "ID13495": {
+            "position": 410,
+            "readOnly": false,
+            "ident": "FileOut_Level",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "FileOut_Level",
+            "info": "",
+            "icon": "Intensity",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 5,
+                "customProfile": "IPSLogger_Level",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID20330": {
+            "position": 420,
+            "readOnly": false,
+            "ident": "FileOut_Days",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "FileOut_Days",
+            "info": "",
+            "icon": "Repeat",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 1,
+                "customProfile": "IPSLogger_Days",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID45038": {
+            "position": 500,
+            "readOnly": false,
+            "ident": "Log4IPSOut_Enabled",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Log4IPSOut_Enabled",
+            "info": "",
+            "icon": "Power",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516891107,
+                "value": false,
+                "customProfile": "~Switch",
+                "lastChange": 1516891107,
+                "type": 0
+            }
+        },
+        "ID48691": {
+            "position": 510,
+            "readOnly": false,
+            "ident": "Log4IPSOut_Level",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Log4IPSOut_Level",
+            "info": "",
+            "icon": "Intensity",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 5,
+                "customProfile": "IPSLogger_Level",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID37276": {
+            "position": 520,
+            "readOnly": false,
+            "ident": "Log4IPSOut_Days",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Log4IPSOut_Days",
+            "info": "",
+            "icon": "Repeat",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 1,
+                "customProfile": "IPSLogger_Days",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID16328": {
+            "position": 600,
+            "readOnly": false,
+            "ident": "EMailOut_Enabled",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "EMailOut_Enabled",
+            "info": "",
+            "icon": "Power",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": false,
+                "customProfile": "~Switch",
+                "lastChange": 0,
+                "type": 0
+            }
+        },
+        "ID15581": {
+            "position": 610,
+            "readOnly": false,
+            "ident": "EMailOut_Level",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "EMailOut_Level",
+            "info": "",
+            "icon": "Intensity",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 5,
+                "customProfile": "IPSLogger_Level",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID22382": {
+            "position": 620,
+            "readOnly": false,
+            "ident": "EMailOut_Priority",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "EMailOut_Priority",
+            "info": "",
+            "icon": "Return",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 0,
+                "customProfile": "IPSLogger_Priority",
+                "lastChange": 0,
+                "type": 1
+            }
+        },
+        "ID15606": {
+            "position": 630,
+            "readOnly": false,
+            "ident": "EMailOut_SendDelay",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "EMailOut_SendDelay",
+            "info": "",
+            "icon": "LockClosed",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 5,
+                "customProfile": "IPSLogger_Delay",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID20710": {
+            "position": 640,
+            "readOnly": false,
+            "ident": "EMailOut_MsgList",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "EMailOut_MsgList",
+            "info": "",
+            "icon": "Mail",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": "",
+                "customProfile": "~TextBox",
+                "lastChange": 0,
+                "type": 3
+            }
+        },
+        "ID24504": {
+            "position": 700,
+            "readOnly": false,
+            "ident": "EchoSOut_Enabled",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "EchoSOut_Enabled",
+            "info": "",
+            "icon": "Power",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": false,
+                "customProfile": "~Switch",
+                "lastChange": 0,
+                "type": 0
+            }
+        },
+        "ID52050": {
+            "position": 710,
+            "readOnly": false,
+            "ident": "EchoOut_Level",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "EchoOut_Level",
+            "info": "",
+            "icon": "Intensity",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 9,
+                "customProfile": "IPSLogger_Level",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID10063": {
+            "position": 800,
+            "readOnly": false,
+            "ident": "ProwlOut_Enabled",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "ProwlOut_Enabled",
+            "info": "",
+            "icon": "Power",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": false,
+                "customProfile": "~Switch",
+                "lastChange": 0,
+                "type": 0
+            }
+        },
+        "ID28009": {
+            "position": 810,
+            "readOnly": false,
+            "ident": "ProwlOut_Level",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "ProwlOut_Level",
+            "info": "",
+            "icon": "Intensity",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 1,
+                "customProfile": "IPSLogger_Level",
+                "lastChange": 1516890460,
+                "type": 1
+            }
+        },
+        "ID46211": {
+            "position": 820,
+            "readOnly": false,
+            "ident": "ProwlOut_Priority",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "ProwlOut_Priority",
+            "info": "",
+            "icon": "Return",
+            "parentID": 33835,
+            "data": {
+                "action": 0,
+                "customAction": 44467,
+                "profile": "",
+                "lastUpdate": 1516890460,
+                "value": 0,
+                "customProfile": "IPSLogger_Priority",
+                "lastChange": 0,
+                "type": 1
+            }
+        },
+        "ID47907": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "Visualization",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Visualization",
+            "info": "",
+            "icon": "",
+            "parentID": 0
+        },
+        "ID30962": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "WebFront",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "WebFront",
+            "info": "",
+            "icon": "",
+            "parentID": 47907
+        },
+        "ID23127": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "System",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "System",
+            "info": "",
+            "icon": "",
+            "parentID": 30962
+        },
+        "ID11060": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSLogger",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSLogger",
+            "info": "",
+            "icon": "",
+            "parentID": 23127
+        },
+        "ID17512": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "Output",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Output",
+            "info": "",
+            "icon": "",
+            "parentID": 11060
+        },
+        "ID14150": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "Settings",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Settings",
+            "info": "",
+            "icon": "",
+            "parentID": 11060
+        },
+        "ID49999": {
+            "position": 200,
+            "readOnly": false,
+            "ident": "Widget",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Widget",
+            "info": "",
+            "icon": "",
+            "parentID": 14150
+        },
+        "ID49810": {
+            "position": 300,
+            "readOnly": false,
+            "ident": "WebFront",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "WebFront",
+            "info": "",
+            "icon": "",
+            "parentID": 14150
+        },
+        "ID20537": {
+            "position": 400,
+            "readOnly": false,
+            "ident": "IPS",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPS",
+            "info": "",
+            "icon": "",
+            "parentID": 14150
+        },
+        "ID47591": {
+            "position": 500,
+            "readOnly": false,
+            "ident": "File",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "File",
+            "info": "",
+            "icon": "",
+            "parentID": 14150
+        },
+        "ID18110": {
+            "position": 600,
+            "readOnly": false,
+            "ident": "Log4IPS",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Log4IPS",
+            "info": "",
+            "icon": "",
+            "parentID": 14150
+        },
+        "ID27066": {
+            "position": 700,
+            "readOnly": false,
+            "ident": "EMail",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "EMail",
+            "info": "",
+            "icon": "",
+            "parentID": 14150
+        },
+        "ID15119": {
+            "position": 800,
+            "readOnly": false,
+            "ident": "Prowl",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Prowl",
+            "info": "",
+            "icon": "",
+            "parentID": 14150
+        },
+        "ID48193": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Window",
+            "info": "",
+            "icon": "",
+            "parentID": 17512,
+            "data": {
+                "targetID": 27422
+            }
+        },
+        "ID17921": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Widget",
+            "info": "",
+            "icon": "",
+            "parentID": 14150,
+            "data": {
+                "targetID": 12534
+            }
+        },
+        "ID10296": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output WebFront",
+            "info": "",
+            "icon": "",
+            "parentID": 14150,
+            "data": {
+                "targetID": 38970
+            }
+        },
+        "ID53710": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output IPS",
+            "info": "",
+            "icon": "",
+            "parentID": 14150,
+            "data": {
+                "targetID": 43877
+            }
+        },
+        "ID53644": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output File",
+            "info": "",
+            "icon": "",
+            "parentID": 14150,
+            "data": {
+                "targetID": 17731
+            }
+        },
+        "ID10985": {
+            "position": 50,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Log4IPS",
+            "info": "",
+            "icon": "",
+            "parentID": 14150,
+            "data": {
+                "targetID": 45038
+            }
+        },
+        "ID37592": {
+            "position": 60,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output EMail",
+            "info": "",
+            "icon": "",
+            "parentID": 14150,
+            "data": {
+                "targetID": 16328
+            }
+        },
+        "ID28236": {
+            "position": 70,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Echo",
+            "info": "",
+            "icon": "",
+            "parentID": 14150,
+            "data": {
+                "targetID": 24504
+            }
+        },
+        "ID35107": {
+            "position": 80,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Prowl",
+            "info": "",
+            "icon": "",
+            "parentID": 14150,
+            "data": {
+                "targetID": 10063
+            }
+        },
+        "ID24836": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 49999,
+            "data": {
+                "targetID": 12534
+            }
+        },
+        "ID49611": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 49999,
+            "data": {
+                "targetID": 58185
+            }
+        },
+        "ID11163": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Last Message",
+            "info": "",
+            "icon": "",
+            "parentID": 49999,
+            "data": {
+                "targetID": 11600
+            }
+        },
+        "ID48839": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Clear Message",
+            "info": "",
+            "icon": "",
+            "parentID": 49999,
+            "data": {
+                "targetID": 16914
+            }
+        },
+        "ID13033": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 49810,
+            "data": {
+                "targetID": 38970
+            }
+        },
+        "ID35678": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 49810,
+            "data": {
+                "targetID": 51295
+            }
+        },
+        "ID55848": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Message Count",
+            "info": "",
+            "icon": "",
+            "parentID": 49810,
+            "data": {
+                "targetID": 43217
+            }
+        },
+        "ID47504": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Last MessageID",
+            "info": "",
+            "icon": "",
+            "parentID": 49810,
+            "data": {
+                "targetID": 47500
+            }
+        },
+        "ID16682": {
+            "position": 50,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Clear Output",
+            "info": "",
+            "icon": "",
+            "parentID": 49810,
+            "data": {
+                "targetID": 28089
+            }
+        },
+        "ID54458": {
+            "position": 60,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Message List",
+            "info": "",
+            "icon": "",
+            "parentID": 49810,
+            "data": {
+                "targetID": 27422
+            }
+        },
+        "ID40333": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 20537,
+            "data": {
+                "targetID": 43877
+            }
+        },
+        "ID19705": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 20537,
+            "data": {
+                "targetID": 39070
+            }
+        },
+        "ID23336": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 47591,
+            "data": {
+                "targetID": 17731
+            }
+        },
+        "ID52186": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 47591,
+            "data": {
+                "targetID": 13495
+            }
+        },
+        "ID38871": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Purge Files after",
+            "info": "",
+            "icon": "",
+            "parentID": 47591,
+            "data": {
+                "targetID": 20330
+            }
+        },
+        "ID48276": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Execute Purge",
+            "info": "",
+            "icon": "",
+            "parentID": 47591,
+            "data": {
+                "targetID": 48764
+            }
+        },
+        "ID35463": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 18110,
+            "data": {
+                "targetID": 45038
+            }
+        },
+        "ID22689": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 18110,
+            "data": {
+                "targetID": 48691
+            }
+        },
+        "ID36470": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Purge Files after",
+            "info": "",
+            "icon": "",
+            "parentID": 18110,
+            "data": {
+                "targetID": 37276
+            }
+        },
+        "ID31672": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Execute Purge",
+            "info": "",
+            "icon": "",
+            "parentID": 18110,
+            "data": {
+                "targetID": 48764
+            }
+        },
+        "ID12538": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 27066,
+            "data": {
+                "targetID": 16328
+            }
+        },
+        "ID40925": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 27066,
+            "data": {
+                "targetID": 15581
+            }
+        },
+        "ID20696": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Priority",
+            "info": "",
+            "icon": "",
+            "parentID": 27066,
+            "data": {
+                "targetID": 22382
+            }
+        },
+        "ID43388": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Send Delay",
+            "info": "",
+            "icon": "",
+            "parentID": 27066,
+            "data": {
+                "targetID": 15606
+            }
+        },
+        "ID13749": {
+            "position": 50,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Message List",
+            "info": "",
+            "icon": "",
+            "parentID": 27066,
+            "data": {
+                "targetID": 20710
+            }
+        },
+        "ID33156": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 15119,
+            "data": {
+                "targetID": 10063
+            }
+        },
+        "ID12371": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 15119,
+            "data": {
+                "targetID": 28009
+            }
+        },
+        "ID16606": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Priority",
+            "info": "",
+            "icon": "",
+            "parentID": 15119,
+            "data": {
+                "targetID": 46211
+            }
+        },
+        "ID28967": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "Mobile",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Mobile",
+            "info": "",
+            "icon": "",
+            "parentID": 47907
+        },
+        "ID34609": {
+            "position": 90,
+            "readOnly": false,
+            "ident": "System",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "System",
+            "info": "",
+            "icon": "Gear",
+            "parentID": 28967
+        },
+        "ID22836": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging",
+            "info": "",
+            "icon": "",
+            "parentID": 34609,
+            "data": {
+                "targetID": 27422
+            }
+        },
+        "ID28801": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "Logging",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Logging",
+            "info": "",
+            "icon": "Gear",
+            "parentID": 34609
+        },
+        "ID26799": {
+            "position": 100,
+            "readOnly": false,
+            "ident": "Widget",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Widget",
+            "info": "",
+            "icon": "",
+            "parentID": 28801,
+            "data": {
+                "moduleType": 3,
+                "moduleName": "Dummy Module",
+                "connectionID": 0,
+                "moduleID": "{485D0419-BE97-4548-AA9C-C083EB82E61E}",
+                "lastChange": 1516890460,
+                "configuration": {}
+            }
+        },
+        "ID53713": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 26799,
+            "data": {
+                "targetID": 12534
+            }
+        },
+        "ID45809": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 26799,
+            "data": {
+                "targetID": 58185
+            }
+        },
+        "ID55005": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Last Message",
+            "info": "",
+            "icon": "",
+            "parentID": 26799,
+            "data": {
+                "targetID": 11600
+            }
+        },
+        "ID42170": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Clear Message",
+            "info": "",
+            "icon": "",
+            "parentID": 26799,
+            "data": {
+                "targetID": 16914
+            }
+        },
+        "ID26260": {
+            "position": 200,
+            "readOnly": false,
+            "ident": "WebFront",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "WebFront",
+            "info": "",
+            "icon": "",
+            "parentID": 28801,
+            "data": {
+                "moduleType": 3,
+                "moduleName": "Dummy Module",
+                "connectionID": 0,
+                "moduleID": "{485D0419-BE97-4548-AA9C-C083EB82E61E}",
+                "lastChange": 1516890460,
+                "configuration": {}
+            }
+        },
+        "ID49851": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 26260,
+            "data": {
+                "targetID": 38970
+            }
+        },
+        "ID39187": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 26260,
+            "data": {
+                "targetID": 51295
+            }
+        },
+        "ID37866": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Message Count",
+            "info": "",
+            "icon": "",
+            "parentID": 26260,
+            "data": {
+                "targetID": 43217
+            }
+        },
+        "ID27870": {
+            "position": 50,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Clear Output",
+            "info": "",
+            "icon": "",
+            "parentID": 26260,
+            "data": {
+                "targetID": 28089
+            }
+        },
+        "ID34151": {
+            "position": 300,
+            "readOnly": false,
+            "ident": "IPS",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "IPS",
+            "info": "",
+            "icon": "",
+            "parentID": 28801,
+            "data": {
+                "moduleType": 3,
+                "moduleName": "Dummy Module",
+                "connectionID": 0,
+                "moduleID": "{485D0419-BE97-4548-AA9C-C083EB82E61E}",
+                "lastChange": 1516890460,
+                "configuration": {}
+            }
+        },
+        "ID51139": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 34151,
+            "data": {
+                "targetID": 43877
+            }
+        },
+        "ID45467": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 34151,
+            "data": {
+                "targetID": 39070
+            }
+        },
+        "ID37730": {
+            "position": 400,
+            "readOnly": false,
+            "ident": "LogFile",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "LogFile",
+            "info": "",
+            "icon": "",
+            "parentID": 28801,
+            "data": {
+                "moduleType": 3,
+                "moduleName": "Dummy Module",
+                "connectionID": 0,
+                "moduleID": "{485D0419-BE97-4548-AA9C-C083EB82E61E}",
+                "lastChange": 1516890460,
+                "configuration": {}
+            }
+        },
+        "ID42813": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 37730,
+            "data": {
+                "targetID": 17731
+            }
+        },
+        "ID45794": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 37730,
+            "data": {
+                "targetID": 13495
+            }
+        },
+        "ID32689": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Purge Files after",
+            "info": "",
+            "icon": "",
+            "parentID": 37730,
+            "data": {
+                "targetID": 20330
+            }
+        },
+        "ID55280": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Execute Purge",
+            "info": "",
+            "icon": "",
+            "parentID": 37730,
+            "data": {
+                "targetID": 48764
+            }
+        },
+        "ID12817": {
+            "position": 500,
+            "readOnly": false,
+            "ident": "Log4IPS",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Log4IPS",
+            "info": "",
+            "icon": "",
+            "parentID": 28801,
+            "data": {
+                "moduleType": 3,
+                "moduleName": "Dummy Module",
+                "connectionID": 0,
+                "moduleID": "{485D0419-BE97-4548-AA9C-C083EB82E61E}",
+                "lastChange": 1516890460,
+                "configuration": {}
+            }
+        },
+        "ID43369": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 12817,
+            "data": {
+                "targetID": 45038
+            }
+        },
+        "ID19137": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 12817,
+            "data": {
+                "targetID": 48691
+            }
+        },
+        "ID53815": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Purge Files after",
+            "info": "",
+            "icon": "",
+            "parentID": 12817,
+            "data": {
+                "targetID": 37276
+            }
+        },
+        "ID32175": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Execute Purge",
+            "info": "",
+            "icon": "",
+            "parentID": 12817,
+            "data": {
+                "targetID": 48764
+            }
+        },
+        "ID10787": {
+            "position": 600,
+            "readOnly": false,
+            "ident": "EMail",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "EMail",
+            "info": "",
+            "icon": "",
+            "parentID": 28801,
+            "data": {
+                "moduleType": 3,
+                "moduleName": "Dummy Module",
+                "connectionID": 0,
+                "moduleID": "{485D0419-BE97-4548-AA9C-C083EB82E61E}",
+                "lastChange": 1516890460,
+                "configuration": {}
+            }
+        },
+        "ID52438": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 10787,
+            "data": {
+                "targetID": 16328
+            }
+        },
+        "ID39552": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 10787,
+            "data": {
+                "targetID": 15581
+            }
+        },
+        "ID45623": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Priority",
+            "info": "",
+            "icon": "",
+            "parentID": 10787,
+            "data": {
+                "targetID": 22382
+            }
+        },
+        "ID31042": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Send Delay",
+            "info": "",
+            "icon": "",
+            "parentID": 10787,
+            "data": {
+                "targetID": 15606
+            }
+        },
+        "ID28945": {
+            "position": 50,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Message List",
+            "info": "",
+            "icon": "",
+            "parentID": 10787,
+            "data": {
+                "targetID": 20710
+            }
+        },
+        "ID16248": {
+            "position": 700,
+            "readOnly": false,
+            "ident": "Prowl",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Prowl",
+            "info": "",
+            "icon": "",
+            "parentID": 28801,
+            "data": {
+                "moduleType": 3,
+                "moduleName": "Dummy Module",
+                "connectionID": 0,
+                "moduleID": "{485D0419-BE97-4548-AA9C-C083EB82E61E}",
+                "lastChange": 1516890460,
+                "configuration": {}
+            }
+        },
+        "ID43000": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Output Enabled",
+            "info": "",
+            "icon": "",
+            "parentID": 16248,
+            "data": {
+                "targetID": 10063
+            }
+        },
+        "ID30976": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Logging Level",
+            "info": "",
+            "icon": "",
+            "parentID": 16248,
+            "data": {
+                "targetID": 28009
+            }
+        },
+        "ID57469": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "Priority",
+            "info": "",
+            "icon": "",
+            "parentID": 16248,
+            "data": {
+                "targetID": 46211
+            }
+        },
+        "ID20596": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerGUIini",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleManagerGUI.ini",
+            "info": "",
+            "icon": "",
+            "parentID": 35646,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/install/InitializationFiles/IPSModuleManagerGUI.ini"
+            }
+        },
+        "ID57630": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "modules",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "modules",
+            "info": "",
+            "icon": "",
+            "parentID": 35495
+        },
+        "ID50374": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerGUI",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSModuleManagerGUI",
+            "info": "",
+            "icon": "",
+            "parentID": 57630
+        },
+        "ID43550": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerGUI",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleManagerGUI",
+            "info": "",
+            "icon": "",
+            "parentID": 50374,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/modules/IPSModuleManagerGUI/IPSModuleManagerGUI.inc.php"
+            }
+        },
+        "ID10091": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerGUI_Constants",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleManagerGUI_Constants",
+            "info": "",
+            "icon": "",
+            "parentID": 50374,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/modules/IPSModuleManagerGUI/IPSModuleManagerGUI_Constants.inc.php"
+            }
+        },
+        "ID15427": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerGUI_Utils",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleManagerGUI_Utils",
+            "info": "",
+            "icon": "",
+            "parentID": 50374,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/modules/IPSModuleManagerGUI/IPSModuleManagerGUI_Utils.inc.php"
+            }
+        },
+        "ID32382": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerGUI_SearchUpdates",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleManagerGUI_SearchUpdates",
+            "info": "",
+            "icon": "",
+            "parentID": 50374,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/modules/IPSModuleManagerGUI/IPSModuleManagerGUI_SearchUpdates.ips.php"
+            }
+        },
+        "ID54557": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "modules",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "modules",
+            "info": "",
+            "icon": "",
+            "parentID": 29485
+        },
+        "ID31930": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerGUI",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSModuleManagerGUI",
+            "info": "",
+            "icon": "",
+            "parentID": 54557
+        },
+        "ID52014": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "SearchUpdates",
+            "hidden": false,
+            "disabled": false,
+            "type": 4,
+            "name": "SearchUpdates",
+            "info": "",
+            "icon": "",
+            "parentID": 32382,
+            "data": {
+                "type": 1,
+                "active": true,
+                "limit": 0,
+                "script": "",
+                "conditions": [],
+                "lastRun": 0,
+                "cyclicDateType": 2,
+                "cyclicDateValue": 1,
+                "cyclicDateDay": 0,
+                "cyclicDateDayValue": 0,
+                "cyclicDateFrom": {
+                    "day": 0,
+                    "month": 0,
+                    "year": 0
+                },
+                "cyclicDateTo": {
+                    "day": 0,
+                    "month": 0,
+                    "year": 0
+                },
+                "cyclicTimeType": 0,
+                "cyclicTimeValue": 0,
+                "cyclicTimeFrom": {
+                    "hour": 0,
+                    "minute": 41,
+                    "second": 0
+                },
+                "cyclicTimeTo": {
+                    "hour": 0,
+                    "minute": 0,
+                    "second": 0
+                }
+            }
+        },
+        "ID11986": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "Action",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Action",
+            "info": "",
+            "icon": "",
+            "parentID": 31930,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516891195,
+                "value": "Module",
+                "customProfile": "~String",
+                "lastChange": 1516891195,
+                "type": 3
+            }
+        },
+        "ID57701": {
+            "position": 20,
+            "readOnly": false,
+            "ident": "Module",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Module",
+            "info": "",
+            "icon": "",
+            "parentID": 31930,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516891195,
+                "value": "IPSHighcharts",
+                "customProfile": "~String",
+                "lastChange": 1516891195,
+                "type": 3
+            }
+        },
+        "ID27251": {
+            "position": 30,
+            "readOnly": false,
+            "ident": "Info",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Info",
+            "info": "",
+            "icon": "",
+            "parentID": 31930,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516891195,
+                "value": "",
+                "customProfile": "~String",
+                "lastChange": 0,
+                "type": 3
+            }
+        },
+        "ID19988": {
+            "position": 40,
+            "readOnly": false,
+            "ident": "HTML",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "HTML",
+            "info": "",
+            "icon": "Information",
+            "parentID": 31930,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516891204,
+                "value": "<iframe frameborder=\"0\" width=\"100%\" height=\"600px\"  src=\"../user/IPSModuleManagerGUI/IPSModuleManagerGUI.php\"</iframe>",
+                "customProfile": "~HTMLBox",
+                "lastChange": 1516890466,
+                "type": 3
+            }
+        },
+        "ID18131": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleManagerGUI",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSModuleManagerGUI",
+            "info": "",
+            "icon": "",
+            "parentID": 23127
+        },
+        "ID42595": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 4,
+            "name": "Timer",
+            "info": "created by script #23819",
+            "icon": "",
+            "parentID": 23819,
+            "data": {
+                "type": 1,
+                "active": true,
+                "limit": 0,
+                "script": "",
+                "conditions": [],
+                "lastRun": 1516891200,
+                "cyclicDateType": 0,
+                "cyclicDateValue": 0,
+                "cyclicDateDay": 0,
+                "cyclicDateDayValue": 2,
+                "cyclicDateFrom": {
+                    "day": 0,
+                    "month": 0,
+                    "year": 0
+                },
+                "cyclicDateTo": {
+                    "day": 0,
+                    "month": 0,
+                    "year": 0
+                },
+                "cyclicTimeType": 2,
+                "cyclicTimeValue": 1,
+                "cyclicTimeFrom": {
+                    "hour": 0,
+                    "minute": 0,
+                    "second": 0
+                },
+                "cyclicTimeTo": {
+                    "hour": 0,
+                    "minute": 0,
+                    "second": 0
+                }
+            }
+        },
+        "ID28307": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentini",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponent.ini",
+            "info": "",
+            "icon": "",
+            "parentID": 35646,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/install/InitializationFiles/IPSComponent.ini"
+            }
+        },
+        "ID14363": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponent",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponent",
+            "info": "",
+            "icon": "",
+            "parentID": 30814
+        },
+        "ID40721": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponent",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponent",
+            "info": "",
+            "icon": "",
+            "parentID": 14363,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponent.class.php"
+            }
+        },
+        "ID33583": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModule",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModule",
+            "info": "",
+            "icon": "",
+            "parentID": 14363,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSModule.class.php"
+            }
+        },
+        "ID24057": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponentCam",
+            "info": "",
+            "icon": "",
+            "parentID": 14363
+        },
+        "ID18721": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam.class.php"
+            }
+        },
+        "ID42031": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Abus",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Abus",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Abus.class.php"
+            }
+        },
+        "ID18518": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Allnet",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Allnet",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Allnet.class.php"
+            }
+        },
+        "ID23754": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Android",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Android",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Android.class.php"
+            }
+        },
+        "ID29290": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Axis",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Axis",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Axis.class.php"
+            }
+        },
+        "ID40218": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_AxisM7001",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_AxisM7001",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_AxisM7001.class.php"
+            }
+        },
+        "ID12356": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Cisco",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Cisco",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Cisco.class.php"
+            }
+        },
+        "ID55783": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_DLink932",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_DLink932",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_DLink932.class.php"
+            }
+        },
+        "ID50625": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_DLink2310",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_DLink2310",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_DLink2310.class.php"
+            }
+        },
+        "ID10704": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_DLink",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_DLink",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_DLink.class.php"
+            }
+        },
+        "ID31816": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Edimax",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Edimax",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Edimax.class.php"
+            }
+        },
+        "ID26336": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Instar",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Instar",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Instar.class.php"
+            }
+        },
+        "ID14415": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Instar5907",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Instar5907",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Instar5907.class.php"
+            }
+        },
+        "ID43349": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Foscam",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Foscam",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Foscam.class.php"
+            }
+        },
+        "ID36045": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Foscam89x",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Foscam89x",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Foscam89x.class.php"
+            }
+        },
+        "ID54435": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_K2000",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_K2000",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_K2000.class.php"
+            }
+        },
+        "ID18255": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Mobotix",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Mobotix",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Mobotix.class.php"
+            }
+        },
+        "ID36416": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Mjpgstreamer",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Mjpgstreamer",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Mjpgstreamer.class.php"
+            }
+        },
+        "ID42746": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Panasonic",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Panasonic",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Panasonic.class.php"
+            }
+        },
+        "ID32387": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Planet",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Planet",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Planet.class.php"
+            }
+        },
+        "ID17052": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_SynologySurveillanceStation7x",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_SynologySurveillanceStation7x",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_SynologySurveillanceStation7x.class.php"
+            }
+        },
+        "ID51368": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_Vivotek",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_Vivotek",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_Vivotek.class.php"
+            }
+        },
+        "ID38724": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentCam_YCam",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentCam_YCam",
+            "info": "",
+            "icon": "",
+            "parentID": 24057,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentCam/IPSComponentCam_YCam.class.php"
+            }
+        },
+        "ID24273": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentPlayer",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponentPlayer",
+            "info": "",
+            "icon": "",
+            "parentID": 14363
+        },
+        "ID43354": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentPlayer",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentPlayer",
+            "info": "",
+            "icon": "",
+            "parentID": 24273,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentPlayer/IPSComponentPlayer.class.php"
+            }
+        },
+        "ID41704": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentPlayer_Sonos",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentPlayer_Sonos",
+            "info": "",
+            "icon": "",
+            "parentID": 24273,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentPlayer/IPSComponentPlayer_Sonos.class.php"
+            }
+        },
+        "ID31530": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentPlayer_Mediaplayer",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentPlayer_Mediaplayer",
+            "info": "",
+            "icon": "",
+            "parentID": 24273,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentPlayer/IPSComponentPlayer_Mediaplayer.class.php"
+            }
+        },
+        "ID27642": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentPlayer_Squeezebox",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentPlayer_Squeezebox",
+            "info": "",
+            "icon": "",
+            "parentID": 24273,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentPlayer/IPSComponentPlayer_Squeezebox.class.php"
+            }
+        },
+        "ID22182": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModulePlayer",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModulePlayer",
+            "info": "",
+            "icon": "",
+            "parentID": 24273,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentPlayer/IPSModulePlayer.class.php"
+            }
+        },
+        "ID32516": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModulePlayer_NetPlayer",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModulePlayer_NetPlayer",
+            "info": "",
+            "icon": "",
+            "parentID": 24273,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentPlayer/IPSModulePlayer_NetPlayer.class.php"
+            }
+        },
+        "ID24075": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponentShutter",
+            "info": "",
+            "icon": "",
+            "parentID": 14363
+        },
+        "ID53100": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter.class.php"
+            }
+        },
+        "ID18657": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_Homematic",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_Homematic",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_Homematic.class.php"
+            }
+        },
+        "ID24043": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_Dummy",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_Dummy",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_Dummy.class.php"
+            }
+        },
+        "ID14746": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_1Wire",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_1Wire",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_1Wire.class.php"
+            }
+        },
+        "ID27512": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_Enocean",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_Enocean",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_Enocean.class.php"
+            }
+        },
+        "ID42802": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_EnoceanShutter",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_EnoceanShutter",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_EnoceanShutter.class.php"
+            }
+        },
+        "ID25480": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_FS20",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_FS20",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_FS20.class.php"
+            }
+        },
+        "ID47533": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_IPSShutterControl",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_IPSShutterControl",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_IPSShutterControl.class.php"
+            }
+        },
+        "ID36374": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_LCN",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_LCN",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_LCN.class.php"
+            }
+        },
+        "ID50793": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_EIB",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_EIB",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_EIB.class.php"
+            }
+        },
+        "ID46688": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_MoellerEaton",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_MoellerEaton",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_MoellerEaton.class.php"
+            }
+        },
+        "ID55613": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentShutter_zwave",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentShutter_zwave",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSComponentShutter_zwave.class.php"
+            }
+        },
+        "ID13737": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleShutter",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleShutter",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSModuleShutter.class.php"
+            }
+        },
+        "ID50767": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleShutter_IPSShadowing",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleShutter_IPSShadowing",
+            "info": "",
+            "icon": "",
+            "parentID": 24075,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentShutter/IPSModuleShutter_IPSShadowing.class.php"
+            }
+        },
+        "ID21432": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponentSwitch",
+            "info": "",
+            "icon": "",
+            "parentID": 14363
+        },
+        "ID40984": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch.class.php"
+            }
+        },
+        "ID52005": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_1WireD2408",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_1WireD2408",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_1WireD2408.class.php"
+            }
+        },
+        "ID58306": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_1WireD2413",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_1WireD2413",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_1WireD2413.class.php"
+            }
+        },
+        "ID49076": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_Dummy",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_Dummy",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_Dummy.class.php"
+            }
+        },
+        "ID59989": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_DMX",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_DMX",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_DMX.class.php"
+            }
+        },
+        "ID51459": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_EatonMoeller",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_EatonMoeller",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_EatonMoeller.class.php"
+            }
+        },
+        "ID19322": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_EIB",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_EIB",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_EIB.class.php"
+            }
+        },
+        "ID38178": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_Enocean",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_Enocean",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_Enocean.class.php"
+            }
+        },
+        "ID55719": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_FS20",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_FS20",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_FS20.class.php"
+            }
+        },
+        "ID54186": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_Homematic",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_Homematic",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_Homematic.class.php"
+            }
+        },
+        "ID20840": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_ModBus",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_ModBus",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_ModBus.class.php"
+            }
+        },
+        "ID12397": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_LCN",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_LCN",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_LCN.class.php"
+            }
+        },
+        "ID45906": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_LCNa",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_LCNa",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_LCNa.class.php"
+            }
+        },
+        "ID56088": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_Plugwise",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_Plugwise",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_Plugwise.class.php"
+            }
+        },
+        "ID50601": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_TCW122B",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_TCW122B",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_TCW122B.class.php"
+            }
+        },
+        "ID31123": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSwitch_ZW",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSwitch_ZW",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSComponentSwitch_ZW.class.php"
+            }
+        },
+        "ID36388": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSwitch",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSwitch",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSModuleSwitch.class.php"
+            }
+        },
+        "ID35689": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSwitch_IPSLight",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSwitch_IPSLight",
+            "info": "",
+            "icon": "",
+            "parentID": 21432,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSwitch/IPSModuleSwitch_IPSLight.class.php"
+            }
+        },
+        "ID26313": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponentDimmer",
+            "info": "",
+            "icon": "",
+            "parentID": 14363
+        },
+        "ID15401": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer.class.php"
+            }
+        },
+        "ID30303": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_Dummy",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_Dummy",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_Dummy.class.php"
+            }
+        },
+        "ID39553": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_DMX",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_DMX",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_DMX.class.php"
+            }
+        },
+        "ID26876": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_IPS868",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_IPS868",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_IPS868.class.php"
+            }
+        },
+        "ID25418": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_EatonMoeller",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_EatonMoeller",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_EatonMoeller.class.php"
+            }
+        },
+        "ID28130": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_EIB",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_EIB",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_EIB.class.php"
+            }
+        },
+        "ID50384": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_Enocean",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_Enocean",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_Enocean.class.php"
+            }
+        },
+        "ID52025": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_FS20",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_FS20",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_FS20.class.php"
+            }
+        },
+        "ID52838": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_Homematic",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_Homematic",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_Homematic.class.php"
+            }
+        },
+        "ID13011": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentDimmer_ZW",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentDimmer_ZW",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSComponentDimmer_ZW.class.php"
+            }
+        },
+        "ID59935": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleDimmer",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleDimmer",
+            "info": "",
+            "icon": "",
+            "parentID": 26313,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentDimmer/IPSModuleDimmer.class.php"
+            }
+        },
+        "ID35205": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentRGB",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponentRGB",
+            "info": "",
+            "icon": "",
+            "parentID": 14363
+        },
+        "ID13952": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentRGB",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentRGB",
+            "info": "",
+            "icon": "",
+            "parentID": 35205,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentRGB/IPSComponentRGB.class.php"
+            }
+        },
+        "ID47302": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentRGB_DMX",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentRGB_DMX",
+            "info": "",
+            "icon": "",
+            "parentID": 35205,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentRGB/IPSComponentRGB_DMX.class.php"
+            }
+        },
+        "ID34590": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentRGB_Dummy",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentRGB_Dummy",
+            "info": "",
+            "icon": "",
+            "parentID": 35205,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentRGB/IPSComponentRGB_Dummy.class.php"
+            }
+        },
+        "ID58511": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentRGB_IPS868",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentRGB_IPS868",
+            "info": "",
+            "icon": "",
+            "parentID": 35205,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentRGB/IPSComponentRGB_IPS868.class.php"
+            }
+        },
+        "ID50337": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentRGB_PhilipsHUE",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentRGB_PhilipsHUE",
+            "info": "",
+            "icon": "",
+            "parentID": 35205,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentRGB/IPSComponentRGB_PhilipsHUE.class.php"
+            }
+        },
+        "ID15736": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentRGB_Milight",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentRGB_Milight",
+            "info": "",
+            "icon": "",
+            "parentID": 35205,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentRGB/IPSComponentRGB_Milight.class.php"
+            }
+        },
+        "ID27381": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleRGB",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleRGB",
+            "info": "",
+            "icon": "",
+            "parentID": 35205,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentRGB/IPSModuleRGB.class.php"
+            }
+        },
+        "ID33861": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentAVControl",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponentAVControl",
+            "info": "",
+            "icon": "",
+            "parentID": 14363
+        },
+        "ID59503": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentAVControl",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentAVControl",
+            "info": "",
+            "icon": "",
+            "parentID": 33861,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentAVControl/IPSComponentAVControl.class.php"
+            }
+        },
+        "ID38573": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentAVControl_AudioMax",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentAVControl_AudioMax",
+            "info": "",
+            "icon": "",
+            "parentID": 33861,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentAVControl/IPSComponentAVControl_AudioMax.class.php"
+            }
+        },
+        "ID53031": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleAVControl",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleAVControl",
+            "info": "",
+            "icon": "",
+            "parentID": 33861,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentAVControl/IPSModuleAVControl.class.php"
+            }
+        },
+        "ID37183": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleAVControl_Entertainment",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleAVControl_Entertainment",
+            "info": "",
+            "icon": "",
+            "parentID": 33861,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentAVControl/IPSModuleAVControl_Entertainment.class.php"
+            }
+        },
+        "ID48819": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSensor",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSComponentSensor",
+            "info": "",
+            "icon": "",
+            "parentID": 14363
+        },
+        "ID35421": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSensor",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSensor",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSComponentSensor.class.php"
+            }
+        },
+        "ID40037": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSensor_Button",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSensor_Button",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSComponentSensor_Button.class.php"
+            }
+        },
+        "ID31168": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSComponentSensor_IRTrans",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSComponentSensor_IRTrans",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSComponentSensor_IRTrans.class.php"
+            }
+        },
+        "ID54727": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSensor",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSensor",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSModuleSensor.class.php"
+            }
+        },
+        "ID14222": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSensor_IPSShadowing",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSensor_IPSShadowing",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSModuleSensor_IPSShadowing.class.php"
+            }
+        },
+        "ID23777": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSensor_IRTrans",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSensor_IRTrans",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSModuleSensor_IRTrans.class.php"
+            }
+        },
+        "ID13945": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSensor_NetPlayer",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSensor_NetPlayer",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSModuleSensor_NetPlayer.class.php"
+            }
+        },
+        "ID41813": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSensor_Entertainment",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSensor_Entertainment",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSModuleSensor_Entertainment.class.php"
+            }
+        },
+        "ID24330": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSensor_IPSLight",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSensor_IPSLight",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSModuleSensor_IPSLight.class.php"
+            }
+        },
+        "ID52851": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSModuleSensor_IPSSonos",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSModuleSensor_IPSSonos",
+            "info": "",
+            "icon": "",
+            "parentID": 48819,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSComponent/IPSComponentSensor/IPSModuleSensor_IPSSonos.class.php"
+            }
+        },
+        "ID34661": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSMessageHandlerini",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSMessageHandler.ini",
+            "info": "",
+            "icon": "",
+            "parentID": 35646,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/install/InitializationFiles/IPSMessageHandler.ini"
+            }
+        },
+        "ID19493": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSMessageHandler",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSMessageHandler",
+            "info": "",
+            "icon": "",
+            "parentID": 30814
+        },
+        "ID37330": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSMessageHandler",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSMessageHandler",
+            "info": "",
+            "icon": "",
+            "parentID": 19493,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSMessageHandler/IPSMessageHandler.class.php"
+            }
+        },
+        "ID27077": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSMessageHandler_Event",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSMessageHandler_Event",
+            "info": "",
+            "icon": "",
+            "parentID": 19493,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSMessageHandler/IPSMessageHandler_Event.ips.php"
+            }
+        },
+        "ID38396": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSMessageHandler_IREvent",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSMessageHandler_IREvent",
+            "info": "",
+            "icon": "",
+            "parentID": 19493,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/core/IPSMessageHandler/IPSMessageHandler_IREvent.ips.php"
+            }
+        },
+        "ID14582": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSMessageHandler",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSMessageHandler",
+            "info": "",
+            "icon": "",
+            "parentID": 52353
+        },
+        "ID42662": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSMessageHandler_Configuration",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSMessageHandler_Configuration",
+            "info": "",
+            "icon": "",
+            "parentID": 14582,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/config/core/IPSMessageHandler/IPSMessageHandler_Configuration.inc.php"
+            }
+        },
+        "ID22124": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSMessageHandler_Custom",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSMessageHandler_Custom",
+            "info": "",
+            "icon": "",
+            "parentID": 14582,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/config/core/IPSMessageHandler/IPSMessageHandler_Custom.inc.php"
+            }
+        },
+        "ID20395": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "OWNet Server",
+            "info": "",
+            "icon": "",
+            "parentID": 12734,
+            "data": {
+                "moduleType": 2,
+                "moduleName": "OWN",
+                "connectionID": 0,
+                "moduleID": "{A68F9DEC-A490-4E35-B500-B45FC5F4FF6A}",
+                "lastChange": 1516890701,
+                "configuration": {
+                    "Category": "OWNet Devices",
+                    "ParentCategory": 0,
+                    "Port": 4304,
+                    "UpdateInterval": 300,
+                    "Host": "",
+                    "LogFile": "",
+                    "AutoCreate": true,
+                    "Debug": false,
+                    "Active": false
+                }
+            }
+        },
+        "ID45117": {
+            "position": 10,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 6,
+            "name": "IPSLibrary",
+            "info": "",
+            "icon": "",
+            "parentID": 18131,
+            "data": {
+                "targetID": 19988
+            }
+        },
+        "ID14235": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSHighchartsini",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSHighcharts.ini",
+            "info": "",
+            "icon": "",
+            "parentID": 35646,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/install/InitializationFiles/IPSHighcharts.ini"
+            }
+        },
+        "ID41063": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "Charts",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Charts",
+            "info": "",
+            "icon": "",
+            "parentID": 57630
+        },
+        "ID50144": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSHighcharts",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSHighcharts",
+            "info": "",
+            "icon": "",
+            "parentID": 41063
+        },
+        "ID16105": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSHighcharts",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSHighcharts",
+            "info": "",
+            "icon": "",
+            "parentID": 50144,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/app/modules/Charts/IPSHighcharts/IPSHighcharts.inc.php"
+            }
+        },
+        "ID41845": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "modules",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "modules",
+            "info": "",
+            "icon": "",
+            "parentID": 51639
+        },
+        "ID35742": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "Charts",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Charts",
+            "info": "",
+            "icon": "",
+            "parentID": 41845
+        },
+        "ID46277": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSHighcharts",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSHighcharts",
+            "info": "",
+            "icon": "",
+            "parentID": 35742
+        },
+        "ID15433": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSHighcharts_Custom",
+            "hidden": false,
+            "disabled": false,
+            "type": 3,
+            "name": "IPSHighcharts_Custom",
+            "info": "",
+            "icon": "",
+            "parentID": 46277,
+            "data": {
+                "isBroken": false,
+                "lastExecute": 0,
+                "type": 0,
+                "file": "IPSLibrary/config/modules/Charts/IPSHighcharts/IPSHighcharts_Custom.inc.php"
+            }
+        },
+        "ID55580": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "Charts",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "Charts",
+            "info": "",
+            "icon": "",
+            "parentID": 54557
+        },
+        "ID15936": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "IPSHighcharts",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IPSHighcharts",
+            "info": "",
+            "icon": "",
+            "parentID": 55580
         }
     },
-    "profiles": {},
+    "profiles": {
+        "IPSLogger_Level": {
+            "associations": [
+                {
+                    "value": 0.0,
+                    "name": "Fatal",
+                    "icon": "",
+                    "color": 11184810
+                },
+                {
+                    "value": 1.0,
+                    "name": "Error",
+                    "icon": "",
+                    "color": 11184810
+                },
+                {
+                    "value": 2.0,
+                    "name": "Warning",
+                    "icon": "",
+                    "color": 11184810
+                },
+                {
+                    "value": 3.0,
+                    "name": "Notification",
+                    "icon": "",
+                    "color": 11184810
+                },
+                {
+                    "value": 4.0,
+                    "name": "Info",
+                    "icon": "",
+                    "color": 11184810
+                },
+                {
+                    "value": 5.0,
+                    "name": "Debug",
+                    "icon": "",
+                    "color": 11184810
+                },
+                {
+                    "value": 6.0,
+                    "name": "Communication",
+                    "icon": "",
+                    "color": 11184810
+                },
+                {
+                    "value": 7.0,
+                    "name": "Trace",
+                    "icon": "",
+                    "color": 11184810
+                },
+                {
+                    "value": 9.0,
+                    "name": "All",
+                    "icon": "",
+                    "color": 11184810
+                }
+            ],
+            "suffix": "",
+            "minValue": 0.0,
+            "prefix": "",
+            "maxValue": 0.0,
+            "digits": 0,
+            "stepSize": 0.0,
+            "type": 1,
+            "icon": ""
+        },
+        "IPSLogger_MsgCount": {
+            "associations": [],
+            "suffix": " Msg's",
+            "minValue": 5.0,
+            "prefix": "",
+            "maxValue": 100.0,
+            "digits": 0,
+            "stepSize": 5.0,
+            "type": 1,
+            "icon": ""
+        },
+        "IPSLogger_MsgId": {
+            "associations": [],
+            "suffix": "",
+            "minValue": 0.0,
+            "prefix": "",
+            "maxValue": 0.0,
+            "digits": 0,
+            "stepSize": 0.0,
+            "type": 1,
+            "icon": ""
+        },
+        "IPSLogger_Delay": {
+            "associations": [],
+            "suffix": " Seconds",
+            "minValue": 0.0,
+            "prefix": "",
+            "maxValue": 600.0,
+            "digits": 0,
+            "stepSize": 30.0,
+            "type": 1,
+            "icon": ""
+        },
+        "IPSLogger_Days": {
+            "associations": [],
+            "suffix": " Tage",
+            "minValue": 0.0,
+            "prefix": "",
+            "maxValue": 100.0,
+            "digits": 0,
+            "stepSize": 5.0,
+            "type": 1,
+            "icon": ""
+        },
+        "IPSLogger_Priority": {
+            "associations": [],
+            "suffix": "",
+            "minValue": 0.0,
+            "prefix": "",
+            "maxValue": 10.0,
+            "digits": 0,
+            "stepSize": 1.0,
+            "type": 1,
+            "icon": ""
+        }
+    },
     "options": {
         "MessageRingBufferSize": 8192,
         "SaveInterval": 10,
