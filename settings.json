@@ -1,0 +1,516 @@
+{
+    "objects": {
+        "ID0": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 0,
+            "name": "IP-Symcon",
+            "info": "",
+            "icon": "",
+            "parentID": 0
+        },
+        "ID44249": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Utils",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Util Control",
+                "connectionID": 0,
+                "moduleID": "{B69010EA-96D5-46DF-B885-24821B8C8DBD}",
+                "lastChange": 1516888448,
+                "configuration": {
+                    "EnableSendUsageData": false,
+                    "LastCheckedVersion": "4.4"
+                }
+            }
+        },
+        "ID52327": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Skins",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Skin Control",
+                "connectionID": 0,
+                "moduleID": "{E8C1043A-E2C2-4CC8-88DC-CBF02D45E15E}",
+                "lastChange": 0
+            }
+        },
+        "ID28474": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Modules",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Module Control",
+                "connectionID": 0,
+                "moduleID": "{B8A5067A-AFC2-3798-FEDC-BCD02A45615E}",
+                "lastChange": 0
+            }
+        },
+        "ID14313": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Connect",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Connect Control",
+                "connectionID": 0,
+                "moduleID": "{9486D575-BE8C-4ED8-B5B5-20930E26DE6F}",
+                "lastChange": 0
+            }
+        },
+        "ID59631": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Events",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Event Control",
+                "connectionID": 0,
+                "moduleID": "{ED573B53-8991-4866-B28C-CBE44C59A2DA}",
+                "lastChange": 0
+            }
+        },
+        "ID11202": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Location",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Location Control",
+                "connectionID": 0,
+                "moduleID": "{45E97A63-F870-408A-B259-2933F7EABF74}",
+                "lastChange": 0
+            }
+        },
+        "ID11723": {
+            "position": 1,
+            "readOnly": true,
+            "ident": "Sunrise",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Sunrise",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "~UnixTimestamp",
+                "lastUpdate": 1516888409,
+                "value": 1516950794,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 1
+            }
+        },
+        "ID47985": {
+            "position": 2,
+            "readOnly": true,
+            "ident": "Sunset",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Sunset",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "~UnixTimestamp",
+                "lastUpdate": 1516888409,
+                "value": 1516895076,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 1
+            }
+        },
+        "ID46263": {
+            "position": 3,
+            "readOnly": true,
+            "ident": "CivilTwilightStart",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Civil twilight start",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "~UnixTimestamp",
+                "lastUpdate": 1516888409,
+                "value": 1516948429,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 1
+            }
+        },
+        "ID20506": {
+            "position": 4,
+            "readOnly": true,
+            "ident": "CivilTwilightEnd",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Civil twilight end",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "~UnixTimestamp",
+                "lastUpdate": 1516888409,
+                "value": 1516897451,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 1
+            }
+        },
+        "ID45926": {
+            "position": 5,
+            "readOnly": true,
+            "ident": "NauticTwilightStart",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Nautic twilight start",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "~UnixTimestamp",
+                "lastUpdate": 1516888409,
+                "value": 1516945837,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 1
+            }
+        },
+        "ID30037": {
+            "position": 6,
+            "readOnly": true,
+            "ident": "NauticTwilightEnd",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Nautic twilight end",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "~UnixTimestamp",
+                "lastUpdate": 1516888409,
+                "value": 1516900050,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 1
+            }
+        },
+        "ID41056": {
+            "position": 7,
+            "readOnly": true,
+            "ident": "AstronomicTwilightStart",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Astronomic twilight start",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "~UnixTimestamp",
+                "lastUpdate": 1516888409,
+                "value": 1516943344,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 1
+            }
+        },
+        "ID11778": {
+            "position": 8,
+            "readOnly": true,
+            "ident": "AstronomicTwilightEnd",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Astronimoc twilight end",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "~UnixTimestamp",
+                "lastUpdate": 1516888409,
+                "value": 1516902546,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 1
+            }
+        },
+        "ID11897": {
+            "position": 0,
+            "readOnly": true,
+            "ident": "IsDay",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Is Day",
+            "info": "",
+            "icon": "",
+            "parentID": 11202,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516888409,
+                "value": true,
+                "customProfile": "",
+                "lastChange": 1516888409,
+                "type": 0
+            }
+        },
+        "ID37160": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Calendar",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Calendar Control",
+                "connectionID": 0,
+                "moduleID": "{1B9A5AF2-F2D2-4827-A13D-FFA6AB350371}",
+                "lastChange": 0
+            }
+        },
+        "ID42940": {
+            "position": 1,
+            "readOnly": true,
+            "ident": "PlannedPresence",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Planned presence",
+            "info": "",
+            "icon": "",
+            "parentID": 37160,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516888409,
+                "value": false,
+                "customProfile": "",
+                "lastChange": 0,
+                "type": 0
+            }
+        },
+        "ID52496": {
+            "position": 2,
+            "readOnly": true,
+            "ident": "PlannedAbsence",
+            "hidden": false,
+            "disabled": false,
+            "type": 2,
+            "name": "Planned absence",
+            "info": "",
+            "icon": "",
+            "parentID": 37160,
+            "data": {
+                "action": 0,
+                "customAction": 0,
+                "profile": "",
+                "lastUpdate": 1516888409,
+                "value": false,
+                "customProfile": "",
+                "lastChange": 0,
+                "type": 0
+            }
+        },
+        "ID47764": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "WebHook",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "WebHook Control",
+                "connectionID": 0,
+                "moduleID": "{015A6EB8-D6E5-4B93-B496-0D3F77AE9FE1}",
+                "lastChange": 0
+            }
+        },
+        "ID32316": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "WebOAuth",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "WebOAuth Control",
+                "connectionID": 0,
+                "moduleID": "{F99BF07D-CECA-438B-A497-E4B55F139D37}",
+                "lastChange": 0
+            }
+        },
+        "ID21599": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Notifications",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Notification Control",
+                "connectionID": 0,
+                "moduleID": "{D4B231D6-8141-4B9E-9B32-82DA3AEEAB78}",
+                "lastChange": 0
+            }
+        },
+        "ID31195": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "Archive",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 0,
+                "moduleName": "Archive Control",
+                "connectionID": 0,
+                "moduleID": "{43192F0B-135B-4CE7-A0A7-1475603F3060}",
+                "lastChange": 1516889550,
+                "configuration": {
+                    "Aggregation": "{}",
+                    "Statistics": "{}"
+                }
+            }
+        },
+        "ID44017": {
+            "position": 0,
+            "readOnly": false,
+            "ident": "",
+            "hidden": false,
+            "disabled": false,
+            "type": 1,
+            "name": "WebFront",
+            "info": "",
+            "icon": "",
+            "parentID": 0,
+            "data": {
+                "moduleType": 4,
+                "moduleName": "WebFront Configurator",
+                "connectionID": 0,
+                "moduleID": "{3565B1F2-8F7B-4311-A4B6-1BF1D868F39E}",
+                "lastChange": 0
+            }
+        }
+    },
+    "profiles": {},
+    "options": {
+        "MessageRingBufferSize": 8192,
+        "SaveInterval": 10,
+        "BackupCount": 25,
+        "SettingsWatch": 0,
+        "VariableWatch": -1,
+        "ScriptWatch": -1,
+        "ThreadCount": 10,
+        "ThreadQueueLimit": 50,
+        "CompatibilityRequired": 0,
+        "OAuthWatch": 0,
+        "ServerSecurity": 1,
+        "DiscoveryWatch": 0,
+        "LogfileVerbose": -1,
+        "MessageQueueWatch": 0,
+        "LogfileCount": 25,
+        "LogMessageCount": 25,
+        "ConnectWatch": 0,
+        "ArchiveRecordLimit": 10000,
+        "BoolGraphValueLimit": 500
+    }
+}
