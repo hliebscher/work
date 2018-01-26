@@ -464,7 +464,7 @@
                 "moduleName": "Archive Control",
                 "connectionID": 0,
                 "moduleID": "{43192F0B-135B-4CE7-A0A7-1475603F3060}",
-                "lastChange": 1516948983,
+                "lastChange": 1516924824,
                 "configuration": {
                     "Aggregation": "{\"ID49021\":{\"active\":true,\"visible\":true,\"type\":0},\"ID55787\":{\"active\":true,\"visible\":true,\"type\":0},\"ID38850\":{\"active\":true,\"visible\":true,\"type\":0},\"ID48733\":{\"active\":true,\"visible\":true,\"type\":0}}",
                     "Statistics": "{}"
@@ -583,7 +583,7 @@
             "parentID": 28334,
             "data": {
                 "isBroken": false,
-                "lastExecute": 1516948981,
+                "lastExecute": 1516924801,
                 "type": 0,
                 "file": "23819.ips.php"
             }
@@ -3065,7 +3065,7 @@
             "parentID": 50374,
             "data": {
                 "isBroken": false,
-                "lastExecute": 1516927271,
+                "lastExecute": 0,
                 "type": 0,
                 "file": "IPSLibrary/app/modules/IPSModuleManagerGUI/IPSModuleManagerGUI_SearchUpdates.ips.php"
             }
@@ -3111,7 +3111,7 @@
                 "limit": 0,
                 "script": "",
                 "conditions": [],
-                "lastRun": 1516927260,
+                "lastRun": 0,
                 "cyclicDateType": 2,
                 "cyclicDateValue": 1,
                 "cyclicDateDay": 0,
@@ -3155,10 +3155,10 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "",
-                "lastUpdate": 1516927271,
-                "value": "Overview",
+                "lastUpdate": 1516891195,
+                "value": "Module",
                 "customProfile": "~String",
-                "lastChange": 1516927271,
+                "lastChange": 1516891195,
                 "type": 3
             }
         },
@@ -3177,10 +3177,10 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "",
-                "lastUpdate": 1516927271,
-                "value": "",
+                "lastUpdate": 1516891195,
+                "value": "IPSHighcharts",
                 "customProfile": "~String",
-                "lastChange": 1516927271,
+                "lastChange": 1516891195,
                 "type": 3
             }
         },
@@ -3199,7 +3199,7 @@
                 "action": 0,
                 "customAction": 0,
                 "profile": "",
-                "lastUpdate": 1516927271,
+                "lastUpdate": 1516891195,
                 "value": "",
                 "customProfile": "~String",
                 "lastChange": 0,
@@ -3257,7 +3257,7 @@
                 "limit": 0,
                 "script": "",
                 "conditions": [],
-                "lastRun": 1516948980,
+                "lastRun": 1516924800,
                 "cyclicDateType": 0,
                 "cyclicDateValue": 0,
                 "cyclicDateDay": 0,
